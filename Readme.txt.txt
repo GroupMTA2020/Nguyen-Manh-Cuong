@@ -1,0 +1,1 @@
+Chào cả nhóm.hihi. Bài mình là quản lý nhân sự. Cơ sở dữ liệu mình để ở trong ảnh DiagramQLDS và có kèm theo script phía dưới. Mọi người cài đặt DevExpress cho giao diện đẹp hơn nhé! ^^
