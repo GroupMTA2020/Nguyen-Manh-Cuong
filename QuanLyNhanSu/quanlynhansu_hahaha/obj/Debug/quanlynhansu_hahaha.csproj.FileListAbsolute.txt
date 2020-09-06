@@ -1,0 +1,582 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdoimatkhau.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmLogin.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmMain.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmTaikhoancanhan.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmthannhannhanvien.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmThongke.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe.licenses
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdantoc.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtongiao.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmngoaingu.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtrinhdohocvan.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmchucvu.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmphongban.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe.config
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.pdb
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.pdb
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.xml
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csprojResolveAssemblyReference.cache
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmchucvu.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdantoc.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdoimatkhau.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmLogin.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmMain.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmngoaingu.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmphongban.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmTaikhoancanhan.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmthannhannhanvien.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmThongke.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtongiao.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtrinhdohocvan.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.Properties.Resources.resources
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csproj.GenerateResource.Cache
+D:\Hóa Học\ký 4\Year3Season2\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe.licenses
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmchucvu.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdantoc.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdoimatkhau.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmLogin.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmMain.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmngoaingu.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmphongban.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmTaikhoancanhan.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmthannhannhanvien.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmThongke.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtongiao.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtrinhdohocvan.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.Properties.Resources.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe.licenses
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.pdb
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csprojResolveAssemblyReference.cache
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmchucvu.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdantoc.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdoimatkhau.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmLogin.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmMain.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmngoaingu.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmphongban.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmTaikhoancanhan.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmthannhannhanvien.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmThongke.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtongiao.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtrinhdohocvan.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.Properties.Resources.resources
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csproj.GenerateResource.Cache
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe.licenses
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.pdb
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe.config
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.pdb
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Data.v16.1.xml
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.xml
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.xml
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\KY 6\Nam 4\Ky_1\TT NHom\thuctapnhom\Thi cuoi ki\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe.config
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.pdb
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Data.v19.1.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Images.v19.1.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Data.v19.1.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csprojResolveAssemblyReference.cache
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmchucvu.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdantoc.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdoimatkhau.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmLogin.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmMain.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmngoaingu.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmphongban.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmTaikhoancanhan.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmthannhannhanvien.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmThongke.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtongiao.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtrinhdohocvan.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.Properties.Resources.resources
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csproj.GenerateResource.Cache
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe.licenses
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.pdb
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Core.v19.1.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Mvvm.v19.1.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Core.v19.1.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Mvvm.v19.1.xml
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Xpf.Core.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Xpf.Core.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Xpf.Core.v19.1.resources.dll
+E:\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csprojResolveAssemblyReference.cache
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmchucvu.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdantoc.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdoimatkhau.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmLogin.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmMain.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmngoaingu.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmphongban.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmTaikhoancanhan.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmthannhannhanvien.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmThongke.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtongiao.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtrinhdohocvan.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.Properties.Resources.resources
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csproj.GenerateResource.Cache
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe.licenses
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.pdb
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe.config
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.pdb
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Core.v19.1.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Mvvm.v19.1.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Core.v19.1.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Mvvm.v19.1.xml
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\anhtu\Desktop\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe.config
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.pdb
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Core.v19.1.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Mvvm.v19.1.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Ribbon.v19.1.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Xpf.Core.v19.1.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\DevExpress.Mvvm.v19.1.xml
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Xpf.Ribbon.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\de\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\es\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ja\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\ru\DevExpress.Xpf.Core.v19.1.resources.dll
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csprojResolveAssemblyReference.cache
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmchucvu.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdantoc.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdoimatkhau.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmLogin.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmMain.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmngoaingu.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmphongban.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmTaikhoancanhan.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmthannhannhanvien.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmThongke.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtongiao.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtrinhdohocvan.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.Properties.Resources.resources
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csproj.GenerateResource.Cache
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe.licenses
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe
+C:\Users\anhtu\Desktop\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.pdb
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe.config
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.pdb
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.exe
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\quanlynhansu_hahaha.pdb
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\EntityFramework.SqlServer.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmchucvu.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdantoc.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmdoimatkhau.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmLogin.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmngoaingu.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmphongban.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmTaikhoancanhan.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmthannhannhanvien.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.FrmThongke.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtongiao.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.GUI.Frmtrinhdohocvan.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.Properties.Resources.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csproj.GenerateResource.Cache
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.exe.licenses
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csproj.CopyComplete
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.FrmMain.resources
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.Licensing.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+F:\NAM 4\KY 1\5. TT nhom\ThucTapNhom_main\TTN_01_QLNS\Quanlynhansu\quanlynhansu_hahaha\quanlynhansu_hahaha\obj\Debug\quanlynhansu_hahaha.csprojAssemblyReference.cache
