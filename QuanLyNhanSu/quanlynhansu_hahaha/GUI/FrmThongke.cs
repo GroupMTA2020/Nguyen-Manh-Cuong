@@ -14,6 +14,7 @@ namespace QuanLyNhanSu.GUI
 {
     public partial class FrmThongke : Form
     {
+        private QuanLyNhanSuDbContext db = DBService.db;
        
         public FrmThongke()
         {
@@ -22,12 +23,76 @@ namespace QuanLyNhanSu.GUI
 
         private void FrmThongke_Load(object sender, EventArgs e)
         {
-       
+            LoadControl();
+            LoadDgvNhanVien();
         }
+        private void DisableControl()
+        {
+            cbxchucvu.Enabled = false;
+            cbxdantoc.Enabled = false;
+            cbxgioitinh.Enabled = false;
+            cbxphongban.Enabled = false;
+            cbxtongiao.Enabled = false;
+            cbxtrinhdo.Enabled = false;
+            combodotuoi.Enabled = false;
+        }
+        private void LoadControl()
+        {
 
+            cbxchucvu.DataSource = db.CHUCVUs.ToList();
+            cbxgioitinh.SelectedIndex = 0;
+
+            cbxdantoc.DataSource = db.DANTOCs.ToList();
+            cbxdantoc.ValueMember = "ID";
+            cbxdantoc.DisplayMember = "TEN";
+
+            cbxtongiao.DataSource = db.TONGIAOs.ToList();
+            cbxtongiao.ValueMember = "ID";
+            cbxtongiao.DisplayMember = "TEN";
+
+            cbxtrinhdo.DataSource = db.TRINHDOHOCVANs.ToList();
+            cbxtrinhdo.ValueMember = "ID";
+            cbxtrinhdo.DisplayMember = "TEN";
+
+            cbxchucvu.DataSource = db.CHUCVUs.ToList();
+            cbxchucvu.ValueMember = "ID";
+            cbxchucvu.DisplayMember = "TEN";
+
+            cbxphongban.DataSource = db.PHONGBANs.ToList();
+            cbxphongban.ValueMember = "ID";
+            cbxphongban.DisplayMember = "TEN";
+            combodotuoi.SelectedIndex = 0;
+            DisableControl();
+
+        }
         private void LoadDgvNhanVien()
         {
-         
+            int i = 0;
+
+            var dbNV = db.NHANVIENs.ToList()
+                       .Select(p => new
+                       {
+
+                           STT = ++i,
+                           ID = p.ID,
+                           MANV = p.MANV,
+                           quequan = p.NOISINH,
+                           TENNV = p.HOTEN,
+                           PHONGBAN = p.PHONGBANID == null ? "Không" : db.PHONGBANs.Where(pb => pb.ID == p.PHONGBANID).FirstOrDefault().TEN,
+                           NGAYSINH = ((DateTime)p.NGAYSINH).ToString("dd/MM/yyyy"),
+                           GIOTINH = p.GIOITINH == 0 ? "Nữ" : "Nam",
+                           DANTOC = p.DANTOCID == null ? "Không" : db.DANTOCs.Where(dt => dt.ID == p.DANTOCID).FirstOrDefault().TEN,
+                           Tongiao = p.TONGIAOID == null ? "Không" : db.TONGIAOs.Where(tg => tg.ID == p.TONGIAOID).FirstOrDefault().TEN,
+                           CHUCVU = p.CHUCVUID == null ? "Không" : db.CHUCVUs.Where(cv => cv.ID == p.CHUCVUID).FirstOrDefault().TEN,
+
+                           trinhdohv = p.TRINHDOHOCVANID == null ? "Không" : db.TRINHDOHOCVANs.Where(td => td.ID == p.TRINHDOHOCVANID).FirstOrDefault().TEN
+                       }).ToList()
+
+                       ;
+
+            dgvNhanvien.DataSource = dbNV;
+
+            // cập nhật index 
 
         }
       
