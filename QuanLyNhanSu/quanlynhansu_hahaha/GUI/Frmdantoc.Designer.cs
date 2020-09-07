@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frmdantoc));
             this.Ghichu = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.STT = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -57,7 +56,6 @@
             this.panel5.SuspendLayout();
             this.group.SuspendLayout();
             this.panel2.SuspendLayout();
-            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // Ghichu
@@ -85,20 +83,20 @@
             // dgvthongtin
             // 
             this.dgvthongtin.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dgvthongtin.BackgroundColor = System.Drawing.Color.White;
+            this.dgvthongtin.BackgroundColor = System.Drawing.SystemColors.ActiveCaption;
             this.dgvthongtin.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvthongtin.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.ID,
             this.STT,
             this.Ten,
             this.Ghichu});
-            this.dgvthongtin.Dock = System.Windows.Forms.DockStyle.Left;
-            this.dgvthongtin.Location = new System.Drawing.Point(2, 17);
+            this.dgvthongtin.Dock = System.Windows.Forms.DockStyle.Right;
+            this.dgvthongtin.Location = new System.Drawing.Point(339, 17);
             this.dgvthongtin.Margin = new System.Windows.Forms.Padding(2);
             this.dgvthongtin.Name = "dgvthongtin";
             this.dgvthongtin.RowHeadersWidth = 51;
             this.dgvthongtin.RowTemplate.Height = 28;
-            this.dgvthongtin.Size = new System.Drawing.Size(531, 399);
+            this.dgvthongtin.Size = new System.Drawing.Size(531, 444);
             this.dgvthongtin.TabIndex = 1;
             this.dgvthongtin.SelectionChanged += new System.EventHandler(this.dgvthongtin12_SelectionChanged);
             // 
@@ -144,7 +142,10 @@
             // 
             // groupthongtin
             // 
+            this.groupthongtin.Controls.Add(this.btntimkiem);
             this.groupthongtin.Controls.Add(this.label3);
+            this.groupthongtin.Controls.Add(this.txtTimKiem);
+            this.groupthongtin.Controls.Add(this.label11);
             this.groupthongtin.Controls.Add(this.txtten);
             this.groupthongtin.Controls.Add(this.label4);
             this.groupthongtin.Controls.Add(this.label9);
@@ -153,7 +154,7 @@
             this.groupthongtin.Location = new System.Drawing.Point(0, 0);
             this.groupthongtin.Margin = new System.Windows.Forms.Padding(2);
             this.groupthongtin.Name = "groupthongtin";
-            this.groupthongtin.Size = new System.Drawing.Size(335, 307);
+            this.groupthongtin.Size = new System.Drawing.Size(335, 405);
             this.groupthongtin.TabIndex = 0;
             // 
             // label3
@@ -183,11 +184,11 @@
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel3.Controls.Add(this.panel5);
             this.panel3.Controls.Add(this.groupthongtin);
-            this.panel3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel3.Location = new System.Drawing.Point(537, 55);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel3.Location = new System.Drawing.Point(0, 10);
             this.panel3.Margin = new System.Windows.Forms.Padding(2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(337, 420);
+            this.panel3.Size = new System.Drawing.Size(337, 465);
             this.panel3.TabIndex = 5;
             // 
             // panel5
@@ -197,10 +198,10 @@
             this.panel5.Controls.Add(this.btnSua);
             this.panel5.Controls.Add(this.btnThem);
             this.panel5.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel5.Location = new System.Drawing.Point(0, 307);
+            this.panel5.Location = new System.Drawing.Point(0, 405);
             this.panel5.Margin = new System.Windows.Forms.Padding(2);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(335, 114);
+            this.panel5.Size = new System.Drawing.Size(335, 143);
             this.panel5.TabIndex = 1;
             this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
             // 
@@ -209,12 +210,11 @@
             this.btnXoa.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoa.Appearance.Options.UseFont = true;
             this.btnXoa.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.btnXoa.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnXoa.ImageOptions.Image")));
             this.btnXoa.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
-            this.btnXoa.Location = new System.Drawing.Point(13, 58);
+            this.btnXoa.Location = new System.Drawing.Point(229, 6);
             this.btnXoa.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnXoa.Name = "btnXoa";
-            this.btnXoa.Size = new System.Drawing.Size(316, 46);
+            this.btnXoa.Size = new System.Drawing.Size(91, 46);
             this.btnXoa.TabIndex = 85;
             this.btnXoa.Text = "Xóa";
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
@@ -224,12 +224,11 @@
             this.btnSua.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSua.Appearance.Options.UseFont = true;
             this.btnSua.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.btnSua.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnSua.ImageOptions.Image")));
             this.btnSua.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
-            this.btnSua.Location = new System.Drawing.Point(176, 6);
+            this.btnSua.Location = new System.Drawing.Point(126, 6);
             this.btnSua.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnSua.Name = "btnSua";
-            this.btnSua.Size = new System.Drawing.Size(153, 46);
+            this.btnSua.Size = new System.Drawing.Size(97, 46);
             this.btnSua.TabIndex = 84;
             this.btnSua.Text = "Sửa";
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
@@ -239,12 +238,11 @@
             this.btnThem.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThem.Appearance.Options.UseFont = true;
             this.btnThem.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.btnThem.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnThem.ImageOptions.Image")));
             this.btnThem.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
             this.btnThem.Location = new System.Drawing.Point(14, 6);
             this.btnThem.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(146, 46);
+            this.btnThem.Size = new System.Drawing.Size(106, 46);
             this.btnThem.TabIndex = 83;
             this.btnThem.Text = "Thêm";
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
@@ -253,12 +251,12 @@
             // 
             this.group.BackColor = System.Drawing.Color.White;
             this.group.Controls.Add(this.dgvthongtin);
-            this.group.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.group.Dock = System.Windows.Forms.DockStyle.Right;
             this.group.Location = new System.Drawing.Point(0, 0);
             this.group.Margin = new System.Windows.Forms.Padding(2);
             this.group.Name = "group";
             this.group.Padding = new System.Windows.Forms.Padding(2);
-            this.group.Size = new System.Drawing.Size(872, 418);
+            this.group.Size = new System.Drawing.Size(872, 463);
             this.group.TabIndex = 111;
             this.group.TabStop = false;
             this.group.Text = "Danh sách dân tộc";
@@ -268,20 +266,20 @@
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel2.Controls.Add(this.group);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(0, 55);
+            this.panel2.Location = new System.Drawing.Point(0, 10);
             this.panel2.Margin = new System.Windows.Forms.Padding(2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(874, 420);
+            this.panel2.Size = new System.Drawing.Size(874, 465);
             this.panel2.TabIndex = 4;
             // 
             // btntimkiem
             // 
-            this.btntimkiem.Location = new System.Drawing.Point(549, 10);
+            this.btntimkiem.Location = new System.Drawing.Point(255, 183);
             this.btntimkiem.Margin = new System.Windows.Forms.Padding(2);
             this.btntimkiem.Name = "btntimkiem";
-            this.btntimkiem.Size = new System.Drawing.Size(87, 26);
+            this.btntimkiem.Size = new System.Drawing.Size(66, 26);
             this.btntimkiem.TabIndex = 115;
-            this.btntimkiem.Text = "Tìm kiếm";
+            this.btntimkiem.Text = "Tìm";
             this.btntimkiem.UseVisualStyleBackColor = true;
             this.btntimkiem.Click += new System.EventHandler(this.btntimkiem_Click);
             // 
@@ -289,7 +287,7 @@
             // 
             this.label11.AutoSize = true;
             this.label11.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label11.Location = new System.Drawing.Point(34, 14);
+            this.label11.Location = new System.Drawing.Point(12, 130);
             this.label11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(65, 16);
@@ -299,24 +297,21 @@
             // txtTimKiem
             // 
             this.txtTimKiem.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTimKiem.Location = new System.Drawing.Point(136, 10);
+            this.txtTimKiem.Location = new System.Drawing.Point(14, 150);
             this.txtTimKiem.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtTimKiem.Name = "txtTimKiem";
-            this.txtTimKiem.Size = new System.Drawing.Size(364, 27);
+            this.txtTimKiem.Size = new System.Drawing.Size(307, 27);
             this.txtTimKiem.TabIndex = 113;
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(133)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel1.Controls.Add(this.btntimkiem);
-            this.panel1.Controls.Add(this.label11);
-            this.panel1.Controls.Add(this.txtTimKiem);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(874, 55);
+            this.panel1.Size = new System.Drawing.Size(874, 10);
             this.panel1.TabIndex = 3;
             // 
             // Frmdantoc
@@ -339,8 +334,6 @@
             this.panel5.ResumeLayout(false);
             this.group.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
             this.ResumeLayout(false);
 
         }

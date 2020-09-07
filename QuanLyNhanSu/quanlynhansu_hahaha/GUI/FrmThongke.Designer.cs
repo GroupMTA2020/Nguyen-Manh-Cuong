@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmThongke));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.groupdantoc = new System.Windows.Forms.GroupBox();
@@ -115,7 +114,7 @@
             // dgvNhanvien
             // 
             this.dgvNhanvien.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.dgvNhanvien.BackgroundColor = System.Drawing.Color.White;
+            this.dgvNhanvien.BackgroundColor = System.Drawing.SystemColors.ActiveCaption;
             this.dgvNhanvien.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dgvNhanvien.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             this.dgvNhanvien.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -305,7 +304,7 @@
             "Từ 30 đến dưới 40tuổi",
             "Từ 40 đến dưới 50 tuổi",
             "Từ 50 tuổi trở lên"});
-            this.combodotuoi.Location = new System.Drawing.Point(215, 153);
+            this.combodotuoi.Location = new System.Drawing.Point(215, 165);
             this.combodotuoi.Name = "combodotuoi";
             this.combodotuoi.Size = new System.Drawing.Size(236, 27);
             this.combodotuoi.TabIndex = 145;
@@ -317,7 +316,7 @@
             this.cbxgioitinh.Items.AddRange(new object[] {
             "Nữ ",
             "Nam"});
-            this.cbxgioitinh.Location = new System.Drawing.Point(215, 197);
+            this.cbxgioitinh.Location = new System.Drawing.Point(215, 209);
             this.cbxgioitinh.Name = "cbxgioitinh";
             this.cbxgioitinh.Size = new System.Drawing.Size(236, 27);
             this.cbxgioitinh.TabIndex = 144;
@@ -329,7 +328,7 @@
             this.cbxtrinhdo.Items.AddRange(new object[] {
             "Nam",
             "Nữ"});
-            this.cbxtrinhdo.Location = new System.Drawing.Point(215, 242);
+            this.cbxtrinhdo.Location = new System.Drawing.Point(215, 254);
             this.cbxtrinhdo.Name = "cbxtrinhdo";
             this.cbxtrinhdo.Size = new System.Drawing.Size(236, 27);
             this.cbxtrinhdo.TabIndex = 143;
@@ -339,11 +338,10 @@
             this.btnThongke.Appearance.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThongke.Appearance.Options.UseFont = true;
             this.btnThongke.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.btnThongke.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnThongke.ImageOptions.Image")));
             this.btnThongke.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
-            this.btnThongke.Location = new System.Drawing.Point(141, 374);
+            this.btnThongke.Location = new System.Drawing.Point(215, 397);
             this.btnThongke.Name = "btnThongke";
-            this.btnThongke.Size = new System.Drawing.Size(151, 46);
+            this.btnThongke.Size = new System.Drawing.Size(159, 46);
             this.btnThongke.TabIndex = 133;
             this.btnThongke.Text = "Thống kê";
             this.btnThongke.Click += new System.EventHandler(this.btnThongke_Click);
@@ -355,7 +353,7 @@
             this.cbxtongiao.Items.AddRange(new object[] {
             "Nam",
             "Nữ"});
-            this.cbxtongiao.Location = new System.Drawing.Point(215, 322);
+            this.cbxtongiao.Location = new System.Drawing.Point(215, 345);
             this.cbxtongiao.Name = "cbxtongiao";
             this.cbxtongiao.Size = new System.Drawing.Size(236, 27);
             this.cbxtongiao.TabIndex = 142;
@@ -367,7 +365,7 @@
             this.cbxdantoc.Items.AddRange(new object[] {
             "Nam",
             "Nữ"});
-            this.cbxdantoc.Location = new System.Drawing.Point(215, 278);
+            this.cbxdantoc.Location = new System.Drawing.Point(215, 301);
             this.cbxdantoc.Name = "cbxdantoc";
             this.cbxdantoc.Size = new System.Drawing.Size(236, 27);
             this.cbxdantoc.TabIndex = 141;
@@ -379,7 +377,7 @@
             this.cbxphongban.Items.AddRange(new object[] {
             "Nam",
             "Nữ"});
-            this.cbxphongban.Location = new System.Drawing.Point(215, 112);
+            this.cbxphongban.Location = new System.Drawing.Point(215, 124);
             this.cbxphongban.Name = "cbxphongban";
             this.cbxphongban.Size = new System.Drawing.Size(236, 27);
             this.cbxphongban.TabIndex = 140;
@@ -401,7 +399,7 @@
             this.radiotongiao.AutoSize = true;
             this.radiotongiao.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radiotongiao.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.radiotongiao.Location = new System.Drawing.Point(22, 324);
+            this.radiotongiao.Location = new System.Drawing.Point(3, 349);
             this.radiotongiao.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.radiotongiao.Name = "radiotongiao";
             this.radiotongiao.Size = new System.Drawing.Size(190, 20);
@@ -415,7 +413,7 @@
             this.radiothongkedantoc.AutoSize = true;
             this.radiothongkedantoc.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radiothongkedantoc.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.radiothongkedantoc.Location = new System.Drawing.Point(22, 283);
+            this.radiothongkedantoc.Location = new System.Drawing.Point(3, 308);
             this.radiothongkedantoc.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.radiothongkedantoc.Name = "radiothongkedantoc";
             this.radiothongkedantoc.Size = new System.Drawing.Size(185, 20);
@@ -429,7 +427,7 @@
             this.radiogioitinh.AutoSize = true;
             this.radiogioitinh.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radiogioitinh.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.radiogioitinh.Location = new System.Drawing.Point(22, 199);
+            this.radiogioitinh.Location = new System.Drawing.Point(3, 213);
             this.radiogioitinh.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.radiogioitinh.Name = "radiogioitinh";
             this.radiogioitinh.Size = new System.Drawing.Size(191, 20);
@@ -443,7 +441,7 @@
             this.radiotrinhdovanhoa.AutoSize = true;
             this.radiotrinhdovanhoa.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radiotrinhdovanhoa.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.radiotrinhdovanhoa.Location = new System.Drawing.Point(22, 244);
+            this.radiotrinhdovanhoa.Location = new System.Drawing.Point(3, 258);
             this.radiotrinhdovanhoa.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.radiotrinhdovanhoa.Name = "radiotrinhdovanhoa";
             this.radiotrinhdovanhoa.Size = new System.Drawing.Size(212, 20);
@@ -457,7 +455,7 @@
             this.RadioThongkeChucvu.AutoSize = true;
             this.RadioThongkeChucvu.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.RadioThongkeChucvu.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.RadioThongkeChucvu.Location = new System.Drawing.Point(22, 81);
+            this.RadioThongkeChucvu.Location = new System.Drawing.Point(3, 83);
             this.RadioThongkeChucvu.Margin = new System.Windows.Forms.Padding(2);
             this.RadioThongkeChucvu.Name = "RadioThongkeChucvu";
             this.RadioThongkeChucvu.Size = new System.Drawing.Size(154, 20);
@@ -471,7 +469,7 @@
             this.radiothongkedotuoi.AutoSize = true;
             this.radiothongkedotuoi.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radiothongkedotuoi.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.radiothongkedotuoi.Location = new System.Drawing.Point(22, 158);
+            this.radiothongkedotuoi.Location = new System.Drawing.Point(3, 172);
             this.radiothongkedotuoi.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.radiothongkedotuoi.Name = "radiothongkedotuoi";
             this.radiothongkedotuoi.Size = new System.Drawing.Size(182, 20);
@@ -485,7 +483,7 @@
             this.RadioThongKePhongBan.AutoSize = true;
             this.RadioThongKePhongBan.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.RadioThongKePhongBan.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.RadioThongKePhongBan.Location = new System.Drawing.Point(22, 117);
+            this.RadioThongKePhongBan.Location = new System.Drawing.Point(3, 131);
             this.RadioThongKePhongBan.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.RadioThongKePhongBan.Name = "RadioThongKePhongBan";
             this.RadioThongKePhongBan.Size = new System.Drawing.Size(208, 20);

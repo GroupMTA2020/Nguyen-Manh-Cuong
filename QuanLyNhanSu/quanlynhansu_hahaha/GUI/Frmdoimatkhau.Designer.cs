@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frmdoimatkhau));
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnHuy = new DevExpress.XtraEditors.SimpleButton();
             this.btnDoimatkhau = new DevExpress.XtraEditors.SimpleButton();
@@ -56,7 +55,7 @@
             this.panel1.Controls.Add(this.label);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(654, 381);
             this.panel1.TabIndex = 0;
@@ -66,10 +65,9 @@
             this.btnHuy.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnHuy.Appearance.Options.UseFont = true;
             this.btnHuy.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.btnHuy.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnHuy.ImageOptions.Image")));
             this.btnHuy.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
             this.btnHuy.Location = new System.Drawing.Point(380, 276);
-            this.btnHuy.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnHuy.Margin = new System.Windows.Forms.Padding(2);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(156, 46);
             this.btnHuy.TabIndex = 92;
@@ -81,7 +79,6 @@
             this.btnDoimatkhau.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDoimatkhau.Appearance.Options.UseFont = true;
             this.btnDoimatkhau.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.btnDoimatkhau.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnDoimatkhau.ImageOptions.Image")));
             this.btnDoimatkhau.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
             this.btnDoimatkhau.Location = new System.Drawing.Point(117, 276);
             this.btnDoimatkhau.Name = "btnDoimatkhau";
@@ -106,7 +103,7 @@
             // 
             this.txtxacnhan.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtxacnhan.Location = new System.Drawing.Point(246, 210);
-            this.txtxacnhan.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtxacnhan.Margin = new System.Windows.Forms.Padding(2);
             this.txtxacnhan.Name = "txtxacnhan";
             this.txtxacnhan.Size = new System.Drawing.Size(291, 27);
             this.txtxacnhan.TabIndex = 89;
@@ -128,7 +125,7 @@
             // 
             this.txtmatkhaumoi.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtmatkhaumoi.Location = new System.Drawing.Point(246, 164);
-            this.txtmatkhaumoi.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtmatkhaumoi.Margin = new System.Windows.Forms.Padding(2);
             this.txtmatkhaumoi.Name = "txtmatkhaumoi";
             this.txtmatkhaumoi.Size = new System.Drawing.Size(291, 27);
             this.txtmatkhaumoi.TabIndex = 87;
@@ -150,7 +147,7 @@
             // 
             this.txtmatkhaucu.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtmatkhaucu.Location = new System.Drawing.Point(246, 114);
-            this.txtmatkhaucu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtmatkhaucu.Margin = new System.Windows.Forms.Padding(2);
             this.txtmatkhaucu.Name = "txtmatkhaucu";
             this.txtmatkhaucu.Size = new System.Drawing.Size(291, 27);
             this.txtmatkhaucu.TabIndex = 85;
@@ -174,7 +171,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(654, 381);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Frmdoimatkhau";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đổi mật khẩu";

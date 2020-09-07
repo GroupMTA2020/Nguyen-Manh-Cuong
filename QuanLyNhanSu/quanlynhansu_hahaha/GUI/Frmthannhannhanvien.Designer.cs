@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frmthannhannhanvien));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel5 = new System.Windows.Forms.Panel();
             this.groupthannhan = new System.Windows.Forms.GroupBox();
@@ -65,8 +64,6 @@
             this.btnThem = new DevExpress.XtraEditors.SimpleButton();
             this.panel6 = new System.Windows.Forms.Panel();
             this.groupThongtin = new System.Windows.Forms.GroupBox();
-            this.label10 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.cbxtienganh = new System.Windows.Forms.ComboBox();
             this.label8 = new System.Windows.Forms.Label();
             this.datengaysinh = new System.Windows.Forms.DateTimePicker();
@@ -93,6 +90,8 @@
             this.btntimkiem = new System.Windows.Forms.Button();
             this.label11 = new System.Windows.Forms.Label();
             this.txtTimKiem = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel5.SuspendLayout();
             this.groupthannhan.SuspendLayout();
@@ -104,7 +103,6 @@
             this.panel7.SuspendLayout();
             this.panel6.SuspendLayout();
             this.groupThongtin.SuspendLayout();
-            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -125,7 +123,7 @@
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel5.Controls.Add(this.groupthannhan);
             this.panel5.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel5.Location = new System.Drawing.Point(0, 419);
+            this.panel5.Location = new System.Drawing.Point(420, 419);
             this.panel5.Margin = new System.Windows.Forms.Padding(2);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(982, 225);
@@ -223,7 +221,7 @@
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel4.Controls.Add(this.groupnhanvien);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel4.Location = new System.Drawing.Point(0, 40);
+            this.panel4.Location = new System.Drawing.Point(420, 12);
             this.panel4.Margin = new System.Windows.Forms.Padding(2);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(982, 380);
@@ -233,7 +231,7 @@
             // 
             this.groupnhanvien.BackColor = System.Drawing.Color.White;
             this.groupnhanvien.Controls.Add(this.dgvNhanvien);
-            this.groupnhanvien.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupnhanvien.Dock = System.Windows.Forms.DockStyle.Right;
             this.groupnhanvien.Font = new System.Drawing.Font("Arial", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupnhanvien.ForeColor = System.Drawing.Color.Black;
             this.groupnhanvien.Location = new System.Drawing.Point(0, 0);
@@ -403,11 +401,11 @@
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel3.Controls.Add(this.panel7);
             this.panel3.Controls.Add(this.panel6);
-            this.panel3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel3.Location = new System.Drawing.Point(982, 40);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel3.Location = new System.Drawing.Point(0, 12);
             this.panel3.Margin = new System.Windows.Forms.Padding(2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(420, 604);
+            this.panel3.Size = new System.Drawing.Size(420, 632);
             this.panel3.TabIndex = 1;
             // 
             // panel7
@@ -418,11 +416,11 @@
             this.panel7.Controls.Add(this.btnLuu);
             this.panel7.Controls.Add(this.btnSua);
             this.panel7.Controls.Add(this.btnThem);
-            this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel7.Location = new System.Drawing.Point(0, 411);
+            this.panel7.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panel7.Location = new System.Drawing.Point(0, 565);
             this.panel7.Margin = new System.Windows.Forms.Padding(2);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(418, 191);
+            this.panel7.Size = new System.Drawing.Size(418, 65);
             this.panel7.TabIndex = 1;
             // 
             // Cbxxem
@@ -430,12 +428,11 @@
             this.Cbxxem.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Cbxxem.Appearance.Options.UseFont = true;
             this.Cbxxem.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.Cbxxem.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("Cbxxem.ImageOptions.Image")));
             this.Cbxxem.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
-            this.Cbxxem.Location = new System.Drawing.Point(71, 101);
+            this.Cbxxem.Location = new System.Drawing.Point(216, 12);
             this.Cbxxem.Margin = new System.Windows.Forms.Padding(2);
             this.Cbxxem.Name = "Cbxxem";
-            this.Cbxxem.Size = new System.Drawing.Size(127, 46);
+            this.Cbxxem.Size = new System.Drawing.Size(89, 46);
             this.Cbxxem.TabIndex = 116;
             this.Cbxxem.Text = "Xem TN";
             this.Cbxxem.Click += new System.EventHandler(this.Cbxxem_Click);
@@ -445,11 +442,10 @@
             this.btnXoa.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoa.Appearance.Options.UseFont = true;
             this.btnXoa.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.btnXoa.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnXoa.ImageOptions.Image")));
             this.btnXoa.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
-            this.btnXoa.Location = new System.Drawing.Point(293, 34);
+            this.btnXoa.Location = new System.Drawing.Point(133, 12);
             this.btnXoa.Name = "btnXoa";
-            this.btnXoa.Size = new System.Drawing.Size(110, 46);
+            this.btnXoa.Size = new System.Drawing.Size(58, 46);
             this.btnXoa.TabIndex = 115;
             this.btnXoa.Text = "Xóa";
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
@@ -459,12 +455,11 @@
             this.btnLuu.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLuu.Appearance.Options.UseFont = true;
             this.btnLuu.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.btnLuu.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnLuu.ImageOptions.Image")));
             this.btnLuu.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
-            this.btnLuu.Location = new System.Drawing.Point(242, 101);
+            this.btnLuu.Location = new System.Drawing.Point(309, 12);
             this.btnLuu.Margin = new System.Windows.Forms.Padding(2);
             this.btnLuu.Name = "btnLuu";
-            this.btnLuu.Size = new System.Drawing.Size(112, 46);
+            this.btnLuu.Size = new System.Drawing.Size(96, 46);
             this.btnLuu.TabIndex = 112;
             this.btnLuu.Text = "Đóng";
             this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
@@ -474,11 +469,10 @@
             this.btnSua.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSua.Appearance.Options.UseFont = true;
             this.btnSua.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.btnSua.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnSua.ImageOptions.Image")));
             this.btnSua.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
-            this.btnSua.Location = new System.Drawing.Point(150, 34);
+            this.btnSua.Location = new System.Drawing.Point(67, 12);
             this.btnSua.Name = "btnSua";
-            this.btnSua.Size = new System.Drawing.Size(110, 46);
+            this.btnSua.Size = new System.Drawing.Size(60, 46);
             this.btnSua.TabIndex = 114;
             this.btnSua.Text = "Sửa";
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
@@ -488,11 +482,10 @@
             this.btnThem.Appearance.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThem.Appearance.Options.UseFont = true;
             this.btnThem.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.btnThem.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("btnThem.ImageOptions.Image")));
             this.btnThem.ImageOptions.Location = DevExpress.XtraEditors.ImageLocation.MiddleLeft;
-            this.btnThem.Location = new System.Drawing.Point(15, 34);
+            this.btnThem.Location = new System.Drawing.Point(7, 12);
             this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(110, 46);
+            this.btnThem.Size = new System.Drawing.Size(54, 46);
             this.btnThem.TabIndex = 113;
             this.btnThem.Text = "Thêm";
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
@@ -504,13 +497,16 @@
             this.panel6.Location = new System.Drawing.Point(0, 0);
             this.panel6.Margin = new System.Windows.Forms.Padding(2);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(418, 411);
+            this.panel6.Size = new System.Drawing.Size(418, 545);
             this.panel6.TabIndex = 0;
             // 
             // groupThongtin
             // 
             this.groupThongtin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(133)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
+            this.groupThongtin.Controls.Add(this.btntimkiem);
             this.groupThongtin.Controls.Add(this.label10);
+            this.groupThongtin.Controls.Add(this.txtTimKiem);
+            this.groupThongtin.Controls.Add(this.label11);
             this.groupThongtin.Controls.Add(this.textBox1);
             this.groupThongtin.Controls.Add(this.cbxtienganh);
             this.groupThongtin.Controls.Add(this.label8);
@@ -534,35 +530,16 @@
             this.groupThongtin.Controls.Add(this.label16);
             this.groupThongtin.Controls.Add(this.label18);
             this.groupThongtin.Controls.Add(this.txtquequan);
-            this.groupThongtin.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupThongtin.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupThongtin.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.groupThongtin.Location = new System.Drawing.Point(0, 0);
             this.groupThongtin.Margin = new System.Windows.Forms.Padding(2);
             this.groupThongtin.Name = "groupThongtin";
             this.groupThongtin.Padding = new System.Windows.Forms.Padding(2);
-            this.groupThongtin.Size = new System.Drawing.Size(418, 411);
+            this.groupThongtin.Size = new System.Drawing.Size(418, 544);
             this.groupThongtin.TabIndex = 109;
             this.groupThongtin.TabStop = false;
             this.groupThongtin.Text = "Thông tin nhân viên";
-            // 
-            // label10
-            // 
-            this.label10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label10.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
-            this.label10.Location = new System.Drawing.Point(10, 422);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(137, 24);
-            this.label10.TabIndex = 100;
-            this.label10.Text = "Mã nhân viên";
-            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // textBox1
-            // 
-            this.textBox1.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(155, 420);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(236, 27);
-            this.textBox1.TabIndex = 99;
             // 
             // cbxtienganh
             // 
@@ -603,7 +580,7 @@
             this.cbxtrinhdo.Items.AddRange(new object[] {
             "Nam",
             "Nữ"});
-            this.cbxtrinhdo.Location = new System.Drawing.Point(167, 342);
+            this.cbxtrinhdo.Location = new System.Drawing.Point(167, 344);
             this.cbxtrinhdo.Name = "cbxtrinhdo";
             this.cbxtrinhdo.Size = new System.Drawing.Size(236, 27);
             this.cbxtrinhdo.TabIndex = 91;
@@ -816,31 +793,29 @@
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(133)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel2.Controls.Add(this.btntimkiem);
-            this.panel2.Controls.Add(this.label11);
-            this.panel2.Controls.Add(this.txtTimKiem);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Margin = new System.Windows.Forms.Padding(2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1402, 40);
+            this.panel2.Size = new System.Drawing.Size(1402, 12);
             this.panel2.TabIndex = 0;
             // 
             // btntimkiem
             // 
-            this.btntimkiem.Location = new System.Drawing.Point(563, 9);
+            this.btntimkiem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btntimkiem.Location = new System.Drawing.Point(316, 492);
             this.btntimkiem.Margin = new System.Windows.Forms.Padding(2);
             this.btntimkiem.Name = "btntimkiem";
             this.btntimkiem.Size = new System.Drawing.Size(87, 26);
             this.btntimkiem.TabIndex = 112;
-            this.btntimkiem.Text = "Tìm kiếm";
+            this.btntimkiem.Text = "Tìm";
             this.btntimkiem.UseVisualStyleBackColor = true;
             this.btntimkiem.Click += new System.EventHandler(this.btntimkiem_Click);
             // 
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(47, 13);
+            this.label11.Location = new System.Drawing.Point(23, 441);
             this.label11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(65, 16);
@@ -850,10 +825,29 @@
             // txtTimKiem
             // 
             this.txtTimKiem.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTimKiem.Location = new System.Drawing.Point(150, 9);
+            this.txtTimKiem.Location = new System.Drawing.Point(26, 460);
             this.txtTimKiem.Name = "txtTimKiem";
-            this.txtTimKiem.Size = new System.Drawing.Size(364, 27);
+            this.txtTimKiem.Size = new System.Drawing.Size(377, 27);
             this.txtTimKiem.TabIndex = 109;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(169, 414);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(236, 27);
+            this.textBox1.TabIndex = 99;
+            // 
+            // label10
+            // 
+            this.label10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label10.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
+            this.label10.Location = new System.Drawing.Point(26, 417);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(137, 24);
+            this.label10.TabIndex = 100;
+            this.label10.Text = "Mã nhân viên";
+            this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // Frmthannhannhanvien
             // 
@@ -879,8 +873,6 @@
             this.panel6.ResumeLayout(false);
             this.groupThongtin.ResumeLayout(false);
             this.groupThongtin.PerformLayout();
-            this.panel2.ResumeLayout(false);
-            this.panel2.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -924,8 +916,6 @@
         private DevExpress.XtraEditors.SimpleButton btnThem;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.GroupBox groupThongtin;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.ComboBox cbxtienganh;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.DateTimePicker datengaysinh;
@@ -951,5 +941,7 @@
         private System.Windows.Forms.Button btntimkiem;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox txtTimKiem;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
