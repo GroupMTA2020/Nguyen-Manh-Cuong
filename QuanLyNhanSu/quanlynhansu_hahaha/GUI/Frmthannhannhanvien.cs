@@ -276,6 +276,52 @@ namespace QuanLyNhanSu.GUI
 
         private void btnThem_Click(object sender, EventArgs e)
         {
+            if (btnThem.Text == "Thêm")
+            {
+
+                btnThem.Text = "Lưu";
+                btnSua.Enabled = false;
+                btnXoa.Text = "Hủy";
+
+                groupThongtin.Enabled = true;
+                dgvNhanvien.Enabled = false;
+                ClearControl();
+
+                return;
+            }
+
+            if (btnThem.Text == "Lưu")
+            {
+                if (Check())
+                {
+
+                    btnThem.Text = "Thêm";
+                    btnSua.Enabled = true;
+                    btnXoa.Text = "Xóa";
+                    groupThongtin.Enabled = false;
+                    dgvNhanvien.Enabled = true;
+
+                    try
+                    {
+                        NHANVIEN tg = getnhanvienByForm();
+                        db.NHANVIENs.Add(tg);
+                        db.SaveChanges();
+
+
+
+                        MessageBox.Show("Thêm thông tin sách thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Thêm thông tin sách thất bại\n" + ex.Message, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+
+
+                    LoadDgvNhanVien();
+                }
+
+                return;
+            }
         }
 
         private void btnSua_Click(object sender, EventArgs e)
@@ -297,6 +343,24 @@ namespace QuanLyNhanSu.GUI
 
         private void btntimkiem_Click(object sender, EventArgs e)
         {
+        }
+        private NHANVIEN getnhanvienByForm()
+        {
+            NHANVIEN ans = new NHANVIEN();
+            ans.MANV = txtmanv.Text;
+            ans.HOTEN = txttennhanvien.Text;
+            ans.NOISINH = txtquequan.Text;
+            ans.NGOAINGUID = (int)cbxtienganh.SelectedValue;
+            ans.GIOITINH = cbxgioitinh.SelectedIndex;
+            ans.NGAYSINH = datengaysinh.Value;
+            ans.CHUCVUID = (int)cbxchucvu.SelectedValue;
+            ans.PHONGBANID = (int)cbxphongban.SelectedValue;
+            ans.DANTOCID = (int)cbxdantoc.SelectedValue;
+            ans.TONGIAOID = (int)cbxtongiao.SelectedValue;
+            ans.TRINHDOHOCVANID = (int)cbxtrinhdo.SelectedValue;
+            ans.LUONG = 0;
+
+            return ans;
         }
 
     }
