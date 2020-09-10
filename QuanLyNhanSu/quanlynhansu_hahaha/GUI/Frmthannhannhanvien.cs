@@ -389,6 +389,53 @@ namespace QuanLyNhanSu.GUI
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
+            if (btnXoa.Text == "Xóa")
+            {
+                NHANVIEN tg = getnhanvienByID();
+                if (tg.ID == 0)
+                {
+                    MessageBox.Show("Chưa có đầu sách nào được chọn", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                DialogResult rs = MessageBox.Show("Bạn có chắc chắn xóa thông tin đầu sách này?", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                if (rs == DialogResult.Cancel) return;
+
+                try
+                {
+
+
+                    db.NHANVIENs.Remove(tg);
+                    db.SaveChanges();
+
+
+                    MessageBox.Show("Xóa thông tin đầu sách thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch
+                {
+                    MessageBox.Show("Xóa thông tin đầu sách thất bại", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+
+                LoadDgvNhanVien();
+                return;
+            }
+
+            if (btnXoa.Text == "Hủy")
+            {
+                btnXoa.Text = "Xóa";
+                btnThem.Text = "Thêm";
+                btnSua.Text = "Sửa";
+
+                btnThem.Enabled = true;
+                btnSua.Enabled = true;
+
+                groupThongtin.Enabled = false;
+                dgvNhanvien.Enabled = true;
+
+                UpdateDetail();
+
+                return;
+            }
         }
 
         private void Cbxxem_Click(object sender, EventArgs e)
