@@ -326,6 +326,65 @@ namespace QuanLyNhanSu.GUI
 
         private void btnSua_Click(object sender, EventArgs e)
         {
+            NHANVIEN tg = getnhanvienByID();
+            if (tg.ID == 0)
+            {
+                MessageBox.Show("Chưa có thông tin sách nào được chọn", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (btnSua.Text == "Sửa")
+            {
+
+                btnSua.Text = "Lưu";
+                btnThem.Enabled = false;
+                btnXoa.Text = "Hủy";
+
+                groupThongtin.Enabled = true;
+                dgvNhanvien.Enabled = false;
+
+                return;
+            }
+
+            if (btnSua.Text == "Lưu")
+            {
+                if (Check())
+                {
+                    btnSua.Text = "Sửa";
+                    btnThem.Enabled = true;
+                    btnXoa.Text = "Xóa";
+
+                    groupThongtin.Enabled = false;
+                    dgvNhanvien.Enabled = true;
+
+                    NHANVIEN tgs = getnhanvienByForm();
+                    tg.MANV = tgs.MANV;
+                    tg.HOTEN = tgs.HOTEN;
+                    tg.NOISINH = tgs.NOISINH;
+                    tg.GIOITINH = tgs.GIOITINH;
+                    tg.NGAYSINH = tgs.NGAYSINH;
+                    tg.TRINHDOHOCVANID = tgs.TRINHDOHOCVANID;
+                    tg.CHUCVUID = tgs.CHUCVUID;
+                    tg.PHONGBANID = tgs.PHONGBANID;
+                    tg.TONGIAOID = tgs.TONGIAOID;
+                    tg.DANTOCID = tgs.DANTOCID;
+                    tg.NGOAINGUID = tgs.NGOAINGUID;
+
+                    try
+                    {
+                        db.SaveChanges();
+                        MessageBox.Show("Sửa thông tin sách thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Sửa thông tin sách thất bại\n" + ex.Message, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+
+                    LoadDgvNhanVien();
+                }
+
+                return;
+            }
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
@@ -334,6 +393,7 @@ namespace QuanLyNhanSu.GUI
 
         private void Cbxxem_Click(object sender, EventArgs e)
         {
+            Loadthannhannhanvien();
         }
 
         private void btnLuu_Click(object sender, EventArgs e)
@@ -343,6 +403,7 @@ namespace QuanLyNhanSu.GUI
 
         private void btntimkiem_Click(object sender, EventArgs e)
         {
+            UpdateDetail();
         }
         private NHANVIEN getnhanvienByForm()
         {
