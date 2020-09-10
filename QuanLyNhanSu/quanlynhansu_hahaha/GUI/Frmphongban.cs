@@ -162,6 +162,44 @@ namespace QuanLyNhanSu.GUI
 
         private void btnThem_Click(object sender, EventArgs e)
         {
+            if (Check())
+            {
+
+                btnThem.Text = "Thêm";
+                btnSua.Enabled = true;
+                btnXoa.Text = "Xóa";
+
+                group.Enabled = false;
+                txtdiadiem.Enabled = false;
+                txtten.Enabled = false;
+                txtid.Enabled = false;
+                txtkihieuphong.Enabled = false;
+                txtmota.Enabled = false;
+                dgvthongtin.Enabled = true;
+
+                btntimkiem.Enabled = true;
+                txtTimKiem.Enabled = true;
+
+                try
+                {
+                    PHONGBAN tg = getnhanvienByForm();
+                    db.PHONGBANs.Add(tg);
+                    db.SaveChanges();
+
+
+
+                    MessageBox.Show("Thêm  thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Thêm  thất bại\n" + ex.Message, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+
+
+                Loadthongtin();
+            }
+
+            return;
         }
     
 
