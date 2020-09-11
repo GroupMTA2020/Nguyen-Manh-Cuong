@@ -157,6 +157,68 @@ namespace QuanLyNhanSu.GUI
             // cập nhật index 
 
         }
+        private void Thongkegioitinh()
+        {
+            var id = cbxgioitinh.SelectedIndex;
+            int i = 0;
+
+            var dbNV = db.NHANVIENs.Where(p => p.GIOITINH == id).ToList()
+                       .Select(p => new
+                       {
+
+                           STT = ++i,
+                           ID = p.ID,
+                           MANV = p.MANV,
+                           quequan = p.NOISINH,
+                           TENNV = p.HOTEN,
+                           PHONGBAN = p.PHONGBANID == null ? "Không" : db.PHONGBANs.Where(pb => pb.ID == p.PHONGBANID).FirstOrDefault().TEN,
+                           NGAYSINH = ((DateTime)p.NGAYSINH).ToString("dd/MM/yyyy"),
+                           GIOTINH = p.GIOITINH == 0 ? "Nữ" : "Nam",
+                           DANTOC = p.DANTOCID == null ? "Không" : db.DANTOCs.Where(dt => dt.ID == p.DANTOCID).FirstOrDefault().TEN,
+                           Tongiao = p.TONGIAOID == null ? "Không" : db.TONGIAOs.Where(tg => tg.ID == p.TONGIAOID).FirstOrDefault().TEN,
+                           CHUCVU = p.CHUCVUID == null ? "Không" : db.CHUCVUs.Where(cv => cv.ID == p.CHUCVUID).FirstOrDefault().TEN,
+
+                           trinhdohv = p.TRINHDOHOCVANID == null ? "Không" : db.TRINHDOHOCVANs.Where(td => td.ID == p.TRINHDOHOCVANID).FirstOrDefault().TEN
+                       }).ToList()
+
+                       ;
+
+            dgvNhanvien.DataSource = dbNV;
+
+            // cập nhật index 
+
+        }
+        private void Thongketongiao()
+        {
+            int id = (int)cbxtongiao.SelectedValue;
+            int i = 0;
+
+            var dbNV = db.NHANVIENs.Where(p => p.TONGIAOID == id).ToList()
+                       .Select(p => new
+                       {
+
+                           STT = ++i,
+                           ID = p.ID,
+                           MANV = p.MANV,
+                           quequan = p.NOISINH,
+                           TENNV = p.HOTEN,
+                           PHONGBAN = p.PHONGBANID == null ? "Không" : db.PHONGBANs.Where(pb => pb.ID == p.PHONGBANID).FirstOrDefault().TEN,
+                           NGAYSINH = ((DateTime)p.NGAYSINH).ToString("dd/MM/yyyy"),
+                           GIOTINH = p.GIOITINH == 0 ? "Nữ" : "Nam",
+                           DANTOC = p.DANTOCID == null ? "Không" : db.DANTOCs.Where(dt => dt.ID == p.DANTOCID).FirstOrDefault().TEN,
+                           Tongiao = p.TONGIAOID == null ? "Không" : db.TONGIAOs.Where(tg => tg.ID == p.TONGIAOID).FirstOrDefault().TEN,
+                           CHUCVU = p.CHUCVUID == null ? "Không" : db.CHUCVUs.Where(cv => cv.ID == p.CHUCVUID).FirstOrDefault().TEN,
+
+                           trinhdohv = p.TRINHDOHOCVANID == null ? "Không" : db.TRINHDOHOCVANs.Where(td => td.ID == p.TRINHDOHOCVANID).FirstOrDefault().TEN
+                       }).ToList()
+
+                       ;
+
+            dgvNhanvien.DataSource = dbNV;
+
+            // cập nhật index 
+
+        }
 
         }
 
