@@ -64,8 +64,49 @@ namespace QuanLyNhanSu.GUI
 
         private void dgvthongtin12_SelectionChanged(object sender, EventArgs e)
         {
+            UpdateDetail();
         }
+        private void UpdateDetail()
+        {
+            ClearControl();
+            try
+            {
+                DANTOC tg = getnhanvienByID();
 
+                if (tg == null || tg.ID == 0) return;
+
+                // cập nhật trên giao diện
+                txtten.Text = tg.TEN;
+                txtghichu.Text = tg.GHICHU;
+                index1 = index;
+                index = dgvthongtin.SelectedRows[0].Index;
+            }
+            catch { }
+
+        }
+        private DANTOC getnhanvienByID()
+        {
+            try
+            {
+                int id = (int)dgvthongtin.SelectedRows[0].Cells["ID"].Value;
+                DANTOC x = db.DANTOCs.Where(p => p.ID == id).FirstOrDefault();
+                return (x != null) ? x : new DANTOC();
+            }
+            catch
+            {
+                return new DANTOC();
+            }
+        }
+        private void ClearControl()
+        {
+            try
+            {
+                txtten.Text = "";
+                txtghichu.Text = "";
+
+            }
+            catch { }
+        }
         private void btnThem_Click(object sender, EventArgs e)
         {
         }
