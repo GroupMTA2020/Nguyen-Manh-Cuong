@@ -281,6 +281,75 @@ namespace QuanLyNhanSu.GUI
 
         private void btnSua_Click_1(object sender, EventArgs e)
         {
+            PHONGBAN tg = getnhanvienByID();
+            if (tg.ID == 0)
+            {
+                MessageBox.Show("Chưa có thông tin  nào được chọn", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (btnSua.Text == "Sửa")
+            {
+
+                btnSua.Text = "Lưu";
+                btnThem.Enabled = false;
+                btnXoa.Text = "Hủy";
+
+                groupthongtin.Enabled = true;
+                txtdiadiem.Enabled = true;
+                txtten.Enabled = true;
+                txtid.Enabled = true;
+                txtkihieuphong.Enabled = true;
+                txtmota.Enabled = true;
+                dgvthongtin.Enabled = false;
+
+                btntimkiem.Enabled = false;
+                txtTimKiem.Enabled = false;
+                return;
+            }
+
+            if (btnSua.Text == "Lưu")
+            {
+                if (Check())
+                {
+                    btnSua.Text = "Sửa";
+                    btnThem.Enabled = true;
+                    btnXoa.Text = "Xóa";
+
+                    groupthongtin.Enabled = false;
+                    txtdiadiem.Enabled = false;
+                    txtten.Enabled = false;
+                    txtid.Enabled = false;
+                    txtkihieuphong.Enabled = false;
+                    txtmota.Enabled = false;
+                    dgvthongtin.Enabled = true;
+
+                    btntimkiem.Enabled = true;
+                    txtTimKiem.Enabled = true;
+
+                    PHONGBAN tgs = getnhanvienByForm();
+                    tg.TEN = tgs.TEN;
+                    tg.IDCAPTREN = tgs.IDCAPTREN;
+                    tg.MOTAPHONGBAN = tgs.MOTAPHONGBAN;
+                    tg.KIHIEUPHONG = tgs.KIHIEUPHONG;
+                    tg.DIADIEM = tgs.DIADIEM;
+
+                    try
+                    {
+                        db.SaveChanges();
+                        MessageBox.Show("Sửa thông tin  thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Sửa thông tin  thất bại\n" + ex.Message, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+
+                    Loadthongtin();
+                }
+
+                return;
+            }
+
         }
 
         private void dgvthongtin_SelectionChanged(object sender, EventArgs e)
