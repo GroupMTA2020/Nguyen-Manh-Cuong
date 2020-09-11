@@ -126,43 +126,87 @@ namespace QuanLyNhanSu.GUI
             // cập nhật index 
 
         }
+        private void ThongKeChucvu()
+        {
+            int id = (int)cbxchucvu.SelectedValue;
+            int i = 0;
+
+            var dbNV = db.NHANVIENs.Where(p => p.CHUCVUID == id).ToList()
+                       .Select(p => new
+                       {
+
+                           STT = ++i,
+                           ID = p.ID,
+                           MANV = p.MANV,
+                           quequan = p.NOISINH,
+                           TENNV = p.HOTEN,
+                           PHONGBAN = p.PHONGBANID == null ? "Không" : db.PHONGBANs.Where(pb => pb.ID == p.PHONGBANID).FirstOrDefault().TEN,
+                           NGAYSINH = ((DateTime)p.NGAYSINH).ToString("dd/MM/yyyy"),
+                           GIOTINH = p.GIOITINH == 0 ? "Nữ" : "Nam",
+                           DANTOC = p.DANTOCID == null ? "Không" : db.DANTOCs.Where(dt => dt.ID == p.DANTOCID).FirstOrDefault().TEN,
+                           Tongiao = p.TONGIAOID == null ? "Không" : db.TONGIAOs.Where(tg => tg.ID == p.TONGIAOID).FirstOrDefault().TEN,
+                           CHUCVU = p.CHUCVUID == null ? "Không" : db.CHUCVUs.Where(cv => cv.ID == p.CHUCVUID).FirstOrDefault().TEN,
+
+                           trinhdohv = p.TRINHDOHOCVANID == null ? "Không" : db.TRINHDOHOCVANs.Where(td => td.ID == p.TRINHDOHOCVANID).FirstOrDefault().TEN
+                       }).ToList()
+
+                       ;
+
+            dgvNhanvien.DataSource = dbNV;
+
+            // cập nhật index 
 
         }
-      
-       
+
+        }
+
         private void RadioThongkeChucvu_CheckedChanged(object sender, EventArgs e)
         {
-         
+            DisableControl();
+            if (RadioThongkeChucvu.Checked) cbxchucvu.Enabled = true;
         }
 
         private void RadioThongKePhongBan_CheckedChanged(object sender, EventArgs e)
         {
-           
+            DisableControl();
+
+            if (RadioThongKePhongBan.Checked)
+
+                cbxphongban.Enabled = true;
         }
 
         private void radiothongkedotuoi_CheckedChanged(object sender, EventArgs e)
         {
-           
+            DisableControl();
+            combodotuoi.Enabled = true;
+            thongkedotuoi();
         }
 
         private void radiogioitinh_CheckedChanged(object sender, EventArgs e)
         {
-          
+            DisableControl();
+            if (radiogioitinh.Checked) cbxgioitinh.Enabled = true;
         }
 
         private void radiotrinhdovanhoa_CheckedChanged(object sender, EventArgs e)
         {
-           
+            DisableControl();
+            if (radiotrinhdovanhoa.Checked)
+                cbxtrinhdo.Enabled = true;
         }
 
         private void radiothongkedantoc_CheckedChanged(object sender, EventArgs e)
         {
-           
+            DisableControl();
+            if (radiothongkedantoc.Checked)
+                cbxdantoc.Enabled = true;
         }
 
         private void radiotongiao_CheckedChanged(object sender, EventArgs e)
         {
-           
+            DisableControl();
+            if (radiotongiao.Checked)
+                cbxtongiao.Enabled = true;
         }
 
         private void btnThongke_Click(object sender, EventArgs e)
