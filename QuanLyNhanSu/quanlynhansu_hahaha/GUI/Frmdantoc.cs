@@ -109,7 +109,73 @@ namespace QuanLyNhanSu.GUI
         }
         private void btnThem_Click(object sender, EventArgs e)
         {
+            if (btnThem.Text == "Thêm")
+            {
+
+                btnThem.Text = "Lưu";
+                btnSua.Enabled = false;
+                btnXoa.Text = "Hủy";
+
+                groupthongtin.Enabled = true;
+                txtghichu.Enabled = true;
+                txtten.Enabled = true;
+                dgvthongtin.Enabled = false;
+
+                btntimkiem.Enabled = false;
+                txtTimKiem.Enabled = false;
+
+                ClearControl();
+
+                return;
+            }
+
+            if (btnThem.Text == "Lưu")
+            {
+                if (Check())
+                {
+
+                    btnThem.Text = "Thêm";
+                    btnSua.Enabled = true;
+                    btnXoa.Text = "Xóa";
+
+                    groupthongtin.Enabled = false;
+                    dgvthongtin.Enabled = true;
+
+                    btntimkiem.Enabled = false;
+                    txtTimKiem.Enabled = false;
+
+                    try
+                    {
+                        DANTOC tg = getnhanvienByForm();
+                        db.DANTOCs.Add(tg);
+                        db.SaveChanges();
+
+
+
+                        MessageBox.Show("Thêm  thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Thêm  thất bại\n" + ex.Message, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+
+
+                    Loadthongtin();
+                }
+
+                return;
+            }
         }
+        private DANTOC getnhanvienByForm()
+        {
+            DANTOC ans = new DANTOC();
+            ans.TEN = txtten.Text;
+            ans.GHICHU = txtghichu.Text;
+
+
+            return ans;
+        }
+
 
         private void btnSua_Click(object sender, EventArgs e)
         {
@@ -130,6 +196,44 @@ namespace QuanLyNhanSu.GUI
         {
 
         }
+        private bool Check()
+        {
+            if (txtten.Text == "")
+            {
+                MessageBox.Show("Tên không được trống", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
 
+            int cnt = db.DANTOCs.Where(p => p.TEN == txtten.Text).ToList().Count;
+            if (cnt > 0)
+            {
+                bool ok = false;
+                if (btnSua.Text == "Lưu")
+                {
+                    // Nếu là sửa
+                    DANTOC tg = getnhanvienByID();
+                    if (tg.TEN == txtten.Text) ok = true;
+                }
+
+                if (!ok)
+                {
+                    MessageBox.Show("Tên đã được sử dụng", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return false;
+                }
+            }
+
+
+            if (txtghichu.Text == "")
+            {
+                MessageBox.Show("Ghi chú không được để trống", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+
+
+
+
+            return true;
+
+        }
     }
 }
