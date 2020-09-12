@@ -218,6 +218,58 @@ namespace QuanLyNhanSu.GUI
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
+            if (btnXoa.Text == "Xóa")
+            {
+                NGOAINGU tg = getnhanvienByID();
+                if (tg.ID == 0)
+                {
+                    MessageBox.Show("Chưa có đầu  nào được chọn", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
+
+                DialogResult rs = MessageBox.Show("Bạn có chắc chắn xóa thông tin đầu  này?", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                if (rs == DialogResult.Cancel) return;
+
+                try
+                {
+
+
+                    db.NGOAINGUs.Remove(tg);
+                    db.SaveChanges();
+
+
+                    MessageBox.Show("Xóa thông tin đầu  thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch
+                {
+                    MessageBox.Show("Xóa thông tin đầu  thất bại", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+
+                Loadthongtin();
+                return;
+            }
+
+            if (btnXoa.Text == "Hủy")
+            {
+                btnXoa.Text = "Xóa";
+                btnThem.Text = "Thêm";
+                btnSua.Text = "Sửa";
+
+                btnThem.Enabled = true;
+                btnSua.Enabled = true;
+
+                group.Enabled = false;
+                txtghichu.Enabled = false;
+                txtghichu.Enabled = false;
+                dgvthongtin.Enabled = true;
+
+                btntimkiem.Enabled = true;
+                txtTimKiem.Enabled = true;
+
+                UpdateDetail();
+
+                return;
+            }
         }
 
         private void btntimkiem_Click(object sender, EventArgs e)
