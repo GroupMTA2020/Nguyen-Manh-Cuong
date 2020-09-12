@@ -271,13 +271,13 @@ namespace QuanLyNhanSu.GUI
             if (radiothongkedantoc.Checked)
             {
                 cbxdantoc.Enabled = true;
-                thongkedantoc();
+                //thongkedantoc();
                 return;
             }
             if (radiothongkedotuoi.Checked)
             {
                 combodotuoi.Enabled = true;
-                thongkedotuoi();
+                //thongkedotuoi();
                 return;
 
             }
@@ -290,7 +290,7 @@ namespace QuanLyNhanSu.GUI
             if (radiotrinhdovanhoa.Checked)
             {
                 cbxtrinhdo.Enabled = true;
-                thongkehocvan();
+               // thongkehocvan();
                 return;
             }
             if (radiotongiao.Checked)
@@ -304,6 +304,6 @@ namespace QuanLyNhanSu.GUI
         }
 
 
-        }
+        
     }
 }
