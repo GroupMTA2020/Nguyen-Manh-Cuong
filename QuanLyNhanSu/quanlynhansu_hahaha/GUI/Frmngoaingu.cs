@@ -153,7 +153,67 @@ namespace QuanLyNhanSu.GUI
 
         private void btnSua_Click(object sender, EventArgs e)
         {
-            
+            NGOAINGU tg = getnhanvienByID();
+            if (tg.ID == 0)
+            {
+                MessageBox.Show("Chưa có thông tin  nào được chọn", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (btnSua.Text == "Sửa")
+            {
+
+                btnSua.Text = "Lưu";
+                btnThem.Enabled = false;
+                btnXoa.Text = "Hủy";
+
+                group.Enabled = true;
+                txtghichu.Enabled = true;
+                txtten.Enabled = true;
+                txtghichu.Enabled = true;
+                txtten.Enabled = true;
+                dgvthongtin.Enabled = false;
+
+                btntimkiem.Enabled = false;
+                txtTimKiem.Enabled = false;
+                return;
+            }
+
+            if (btnSua.Text == "Lưu")
+            {
+                if (Check())
+                {
+                    btnSua.Text = "Sửa";
+                    btnThem.Enabled = true;
+                    btnXoa.Text = "Xóa";
+
+                    group.Enabled = false;
+                    txtten.Enabled = false;
+                    txtghichu.Enabled = false;
+                    dgvthongtin.Enabled = true;
+
+                    btntimkiem.Enabled = true;
+                    txtTimKiem.Enabled = true;
+
+                    NGOAINGU tgs = getnhanvienByForm();
+                    tg.TEN = tgs.TEN;
+                    tg.GHICHU = tgs.GHICHU;
+
+                    try
+                    {
+                        db.SaveChanges();
+                        MessageBox.Show("Sửa thông tin  thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Sửa thông tin  thất bại\n" + ex.Message, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+
+                    Loadthongtin();
+                }
+
+                return;
+            }
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
