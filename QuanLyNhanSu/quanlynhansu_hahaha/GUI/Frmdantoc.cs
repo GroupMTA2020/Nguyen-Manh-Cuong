@@ -280,6 +280,7 @@ namespace QuanLyNhanSu.GUI
 
         private void btntimkiem_Click(object sender, EventArgs e)
         {
+            Loadthongtin();
         }
 
        
