@@ -162,7 +162,7 @@ namespace QuanLyNhanSu.GUI
 
         private void btntimkiem_Click(object sender, EventArgs e)
         {
-            
+            Loadthongtin();
         }
 
         private void dgvthongtin_LocationChanged(object sender, EventArgs e)
