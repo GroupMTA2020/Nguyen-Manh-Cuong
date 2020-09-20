@@ -1,4 +1,4 @@
-﻿namespace QuanLyNhanSu.DATAHA
+namespace QuanLyNhanSu.DATAHA
 {
     using System;
     using System.Collections.Generic;

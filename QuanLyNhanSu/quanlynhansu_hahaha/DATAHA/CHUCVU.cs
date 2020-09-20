@@ -6,11 +6,11 @@ namespace QuanLyNhanSu.DATAHA
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
 
-    [Table("TRINHDOHOCVAN")]
-    public partial class TRINHDOHOCVAN
+    [Table("CHUCVU")]
+    public partial class CHUCVU
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public TRINHDOHOCVAN()
+        public CHUCVU()
         {
             NHANVIENs = new HashSet<NHANVIEN>();
         }
@@ -18,6 +18,11 @@ namespace QuanLyNhanSu.DATAHA
         public int ID { get; set; }
 
         public string TEN { get; set; }
+
+        public double? PHUCAPCHUCVU { get; set; }
+
+        [StringLength(50)]
+        public string KIHIEUCHUCVU { get; set; }
 
         [StringLength(50)]
         public string GHICHU { get; set; }
