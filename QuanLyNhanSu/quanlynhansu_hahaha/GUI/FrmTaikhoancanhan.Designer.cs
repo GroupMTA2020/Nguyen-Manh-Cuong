@@ -139,7 +139,7 @@
             // txttongiao
             // 
             this.txttongiao.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txttongiao.Location = new System.Drawing.Point(621, 159);
+            this.txttongiao.Location = new System.Drawing.Point(621, 164);
             this.txttongiao.Name = "txttongiao";
             this.txttongiao.Size = new System.Drawing.Size(236, 27);
             this.txttongiao.TabIndex = 152;
@@ -147,7 +147,7 @@
             // txtdantoc
             // 
             this.txtdantoc.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtdantoc.Location = new System.Drawing.Point(621, 124);
+            this.txtdantoc.Location = new System.Drawing.Point(621, 130);
             this.txtdantoc.Name = "txtdantoc";
             this.txtdantoc.Size = new System.Drawing.Size(236, 27);
             this.txtdantoc.TabIndex = 151;
@@ -185,7 +185,7 @@
             this.label6.BackColor = System.Drawing.Color.White;
             this.label6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label6.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
-            this.label6.Location = new System.Drawing.Point(478, 159);
+            this.label6.Location = new System.Drawing.Point(478, 164);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(137, 27);
             this.label6.TabIndex = 147;
@@ -197,9 +197,9 @@
             this.label5.BackColor = System.Drawing.Color.White;
             this.label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Bold);
-            this.label5.Location = new System.Drawing.Point(478, 126);
+            this.label5.Location = new System.Drawing.Point(478, 132);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(137, 24);
+            this.label5.Size = new System.Drawing.Size(137, 28);
             this.label5.TabIndex = 146;
             this.label5.Text = "Dân tộc";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
