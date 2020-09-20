@@ -29,7 +29,19 @@ namespace QuanLyNhanSu.GUI
         {
             InitializeComponent();
         }
-
+        private DANTOC getnhanvienByID()
+        {
+            try
+            {
+                int id = (int)dgvthongtin.SelectedRows[0].Cells["ID"].Value;
+                DANTOC x = db.DANTOCs.Where(p => p.ID == id).FirstOrDefault();
+                return (x != null) ? x : new DANTOC();
+            }
+            catch
+            {
+                return new DANTOC();
+            }
+        }
         private void Loadthongtin()
         {
             int i = 0;
