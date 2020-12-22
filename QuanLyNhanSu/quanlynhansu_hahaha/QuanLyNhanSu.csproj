@@ -168,17 +168,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAO\DBService.cs" />
-    <Compile Include="DAO\Helper.cs" />
-    <Compile Include="DATAHA\CHUCVU.cs" />
-    <Compile Include="DATAHA\DANTOC.cs" />
-    <Compile Include="DATAHA\NGOAINGU.cs" />
-    <Compile Include="DATAHA\NHANVIEN.cs" />
-    <Compile Include="DATAHA\PHONGBAN.cs" />
-    <Compile Include="DATAHA\QuanLyNhanSuDbContext.cs" />
-    <Compile Include="DATAHA\THANNHAN.cs" />
-    <Compile Include="DATAHA\TONGIAO.cs" />
-    <Compile Include="DATAHA\TRINHDOHOCVAN.cs" />
     <Compile Include="GUI\Frmchucvu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -346,6 +335,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\danh-gia-nhan-vien.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DAO\" />
+    <Folder Include="DATAHA\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
