@@ -38,7 +38,6 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.buttonSearch = new Bunifu.Framework.UI.BunifuFlatButton();
             this.bunifuGradientPanel1 = new Bunifu.Framework.UI.BunifuGradientPanel();
-            this.btn_dantoc = new Bunifu.Framework.UI.BunifuFlatButton();
             this.btn_thannhan = new Bunifu.Framework.UI.BunifuFlatButton();
             this.btn_ngoaingu = new Bunifu.Framework.UI.BunifuFlatButton();
             this.btn_taikhoan = new Bunifu.Framework.UI.BunifuFlatButton();
@@ -52,6 +51,7 @@
             this.btn_ShowEmployees = new Bunifu.Framework.UI.BunifuFlatButton();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
+            this.btn_dantoc = new Bunifu.Framework.UI.BunifuFlatButton();
             ((System.ComponentModel.ISupportInitialize)(this.DataGridView)).BeginInit();
             this.panel1.SuspendLayout();
             this.bunifuGradientPanel1.SuspendLayout();
@@ -204,45 +204,6 @@
             this.bunifuGradientPanel1.Quality = 10;
             this.bunifuGradientPanel1.Size = new System.Drawing.Size(246, 753);
             this.bunifuGradientPanel1.TabIndex = 0;
-            // 
-            // btn_dantoc
-            // 
-            this.btn_dantoc.Active = false;
-            this.btn_dantoc.Activecolor = System.Drawing.Color.FromArgb(((int)(((byte)(101)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
-            this.btn_dantoc.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.btn_dantoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(133)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
-            this.btn_dantoc.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btn_dantoc.BorderRadius = 0;
-            this.btn_dantoc.ButtonText = "Dân tộc";
-            this.btn_dantoc.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btn_dantoc.DisabledColor = System.Drawing.Color.Gray;
-            this.btn_dantoc.Iconcolor = System.Drawing.Color.Transparent;
-            this.btn_dantoc.Iconimage = ((System.Drawing.Image)(resources.GetObject("btn_dantoc.Iconimage")));
-            this.btn_dantoc.Iconimage_right = null;
-            this.btn_dantoc.Iconimage_right_Selected = null;
-            this.btn_dantoc.Iconimage_Selected = null;
-            this.btn_dantoc.IconMarginLeft = 0;
-            this.btn_dantoc.IconMarginRight = 0;
-            this.btn_dantoc.IconRightVisible = true;
-            this.btn_dantoc.IconRightZoom = 0D;
-            this.btn_dantoc.IconVisible = true;
-            this.btn_dantoc.IconZoom = 40D;
-            this.btn_dantoc.IsTab = true;
-            this.btn_dantoc.Location = new System.Drawing.Point(9, 685);
-            this.btn_dantoc.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btn_dantoc.Name = "btn_dantoc";
-            this.btn_dantoc.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(133)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
-            this.btn_dantoc.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(97)))), ((int)(((byte)(119)))));
-            this.btn_dantoc.OnHoverTextColor = System.Drawing.Color.White;
-            this.btn_dantoc.selected = false;
-            this.btn_dantoc.Size = new System.Drawing.Size(229, 59);
-            this.btn_dantoc.TabIndex = 14;
-            this.btn_dantoc.Text = "Dân tộc";
-            this.btn_dantoc.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.btn_dantoc.Textcolor = System.Drawing.Color.White;
-            this.btn_dantoc.TextFont = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_dantoc.Click += new System.EventHandler(this.btn_dantoc_Click);
             // 
             // btn_thannhan
             // 
@@ -425,7 +386,7 @@
             this.btn_thongke.IconVisible = true;
             this.btn_thongke.IconZoom = 40D;
             this.btn_thongke.IsTab = true;
-            this.btn_thongke.Location = new System.Drawing.Point(15, 303);
+            this.btn_thongke.Location = new System.Drawing.Point(9, 362);
             this.btn_thongke.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btn_thongke.Name = "btn_thongke";
             this.btn_thongke.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(133)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
@@ -503,7 +464,7 @@
             this.btn_tongiao.IconVisible = true;
             this.btn_tongiao.IconZoom = 40D;
             this.btn_tongiao.IsTab = true;
-            this.btn_tongiao.Location = new System.Drawing.Point(9, 362);
+            this.btn_tongiao.Location = new System.Drawing.Point(10, 293);
             this.btn_tongiao.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btn_tongiao.Name = "btn_tongiao";
             this.btn_tongiao.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(133)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
@@ -690,6 +651,45 @@
             this.label1.Size = new System.Drawing.Size(546, 45);
             this.label1.TabIndex = 14;
             this.label1.Text = "Quản lý nhân sự công ty NMC";
+            // 
+            // btn_dantoc
+            // 
+            this.btn_dantoc.Active = false;
+            this.btn_dantoc.Activecolor = System.Drawing.Color.FromArgb(((int)(((byte)(101)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
+            this.btn_dantoc.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_dantoc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(133)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
+            this.btn_dantoc.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btn_dantoc.BorderRadius = 0;
+            this.btn_dantoc.ButtonText = "Dân tộc";
+            this.btn_dantoc.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btn_dantoc.DisabledColor = System.Drawing.Color.Gray;
+            this.btn_dantoc.Iconcolor = System.Drawing.Color.Transparent;
+            this.btn_dantoc.Iconimage = ((System.Drawing.Image)(resources.GetObject("btn_dantoc.Iconimage")));
+            this.btn_dantoc.Iconimage_right = null;
+            this.btn_dantoc.Iconimage_right_Selected = null;
+            this.btn_dantoc.Iconimage_Selected = null;
+            this.btn_dantoc.IconMarginLeft = 0;
+            this.btn_dantoc.IconMarginRight = 0;
+            this.btn_dantoc.IconRightVisible = true;
+            this.btn_dantoc.IconRightZoom = 0D;
+            this.btn_dantoc.IconVisible = true;
+            this.btn_dantoc.IconZoom = 40D;
+            this.btn_dantoc.IsTab = true;
+            this.btn_dantoc.Location = new System.Drawing.Point(9, 685);
+            this.btn_dantoc.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_dantoc.Name = "btn_dantoc";
+            this.btn_dantoc.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(133)))), ((int)(((byte)(30)))), ((int)(((byte)(62)))));
+            this.btn_dantoc.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(97)))), ((int)(((byte)(119)))));
+            this.btn_dantoc.OnHoverTextColor = System.Drawing.Color.White;
+            this.btn_dantoc.selected = false;
+            this.btn_dantoc.Size = new System.Drawing.Size(229, 59);
+            this.btn_dantoc.TabIndex = 14;
+            this.btn_dantoc.Text = "Dân tộc";
+            this.btn_dantoc.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.btn_dantoc.Textcolor = System.Drawing.Color.White;
+            this.btn_dantoc.TextFont = new System.Drawing.Font("Consolas", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_dantoc.Click += new System.EventHandler(this.btn_dantoc_Click);
             // 
             // FrmMain
             // 
