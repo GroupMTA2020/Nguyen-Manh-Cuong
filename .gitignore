@@ -1,3 +1,9 @@
 
 *.lock
 QuanLyNhanSu/.vs/QuanLyNhanSu/v16/.suo
+QuanLyNhanSu/.vs/QuanLyNhanSu/v16/Server/sqlite3/storage.ide-shm
+QuanLyNhanSu/.vs/QuanLyNhanSu/v16/Server/sqlite3/storage.ide-wal
+*.ide-shm
+*.cache
+*.txt
+*.licenses
