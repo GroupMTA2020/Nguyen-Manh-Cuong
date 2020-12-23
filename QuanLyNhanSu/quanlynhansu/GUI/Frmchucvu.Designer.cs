@@ -78,7 +78,7 @@
             this.label2.TabIndex = 89;
             this.label2.Text = "Ghi chú";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            //this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // txtghichu
             // 
@@ -87,7 +87,7 @@
             this.txtghichu.Name = "txtghichu";
             this.txtghichu.Size = new System.Drawing.Size(195, 27);
             this.txtghichu.TabIndex = 88;
-            this.txtghichu.TextChanged += new System.EventHandler(this.txtghichu_TextChanged);
+            //this.txtghichu.TextChanged += new System.EventHandler(this.txtghichu_TextChanged);
             // 
             // label1
             // 
